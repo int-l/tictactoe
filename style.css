@@ -35,6 +35,7 @@ body{
     width: 30%;
     height: 30%;
     margin: 4px 0;
+    padding: auto;
     border-radius: 2px;
     border: 2px solid rgba(112, 128, 144, 0.4);
     background: whitesmoke;
